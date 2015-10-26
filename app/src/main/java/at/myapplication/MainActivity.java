@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
     }
 
-    // test android
+    // test android test
 
     @Override
     public void onBackPressed() {
